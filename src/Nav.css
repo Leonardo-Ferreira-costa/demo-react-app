@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+
+.NavDiv{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+}
+
+.NavLogo{
+    height: 5em;
+    margin: 1em;
+}
+
+.ulStyle{
+    display: flex;
+    margin: 0;
+    right: 1em;
+    padding: 2em;
+    list-style-type: none;
+       
+}
+
+.ulStyle li{
+    margin: 1em;
+    cursor: pointer;
+}
